@@ -73,4 +73,5 @@ I specialize in various areas, including:
 Feel free to get in touch:
 
 - 📧 Email: paragsarinoffice@gmail.com
+
 Thank you for visiting my GitHub profile. If you have any questions or would like to collaborate, please don't hesitate to reach out!
