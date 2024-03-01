@@ -1,6 +1,6 @@
 # Parag Sarin
 
-Welcome to my GitHub profile! I'm a Principal Technical Product Manager with a passion for technology and innovation. I have extensive experience working with the Microsoft technology and development stack, specializing in the design, development, and implementation of enterprise-level insurance products. My work has a significant impact, with the software I've contributed to being used by 300+ P&C North American clients.
+Welcome to my GitHub profile! I'm a Software Engineering Manager with a passion for technology and innovation. I have extensive experience working with the Microsoft technology and development stack, specializing in the design, development, and implementation of enterprise-level insurance products. My work has a significant impact, with the software I've contributed to being used by 300+ P&C North American clients.
 
 ## About Me
 
