@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Principal Technical Product Manager with a p
 
 ## About Me
 
-- 🚀 Experienced Technical Product Manager
+- 🚀 Experienced Software Engineering Manager
 - 💼 Expertise in Microsoft technology and development stack
 - 🤝 Skilled at mentoring and guiding cross-functional teams
 - 🛠️ Advocate for SAFe processes and software product development
