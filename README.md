@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73456&lines=Hi%F0%9F%91%8B+%2C+I'm+Parag+Sarin+;I'm+a+Software+Engineering+Manager)](https://git.io/typing-svg) 
+
 # Parag Sarin
 
 Welcome to my GitHub profile! I'm a Software Engineering Manager with a passion for technology and innovation. I have extensive experience working with the Microsoft technology and development stack, specializing in the design, development, and implementation of enterprise-level insurance products. My work has a significant impact, with the software I've contributed to being used by 300+ P&C North American clients.
