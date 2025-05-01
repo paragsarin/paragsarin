@@ -66,6 +66,7 @@ I specialize in various areas, including:
 - 🌀 Scrum
 - 📱 Responsive designs
 - 📦 Open Source
+- ☁️ Cloud
 - ☁️ DevOps (CI/CD)
 - 📊 Test Automation Frameworks
 - 🌐 Restful API’s
